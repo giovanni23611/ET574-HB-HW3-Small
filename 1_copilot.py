@@ -11,3 +11,5 @@ def greet_students(students):
 
 # call the function
 greet_students(students)
+# change Jon to John
+students[1] = 'John'
